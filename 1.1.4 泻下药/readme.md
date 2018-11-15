@@ -1,8 +1,8 @@
 # 泻下药
 
-- 1.[攻下药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/%E8%A1%A5%E8%99%9A%E8%8D%AF/1.1.1%E8%A1%A5%E6%B0%94%E8%8D%AF(13%E7%A7%8D).md)
-- 2.[润下药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/%E8%A1%A5%E8%99%9A%E8%8D%AF/1.1.2%20%E8%A1%A5%E9%98%B3%E8%8D%AF(21%E7%A7%8D).md)
-- 3.[峻下逐水药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/%E8%A1%A5%E8%99%9A%E8%8D%AF/1.1.3%20%E8%A1%A5%E8%A1%80%E8%8D%AF(7%E7%A7%8D).md)
+- 1.[攻下药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.4%20%E6%B3%BB%E4%B8%8B%E8%8D%AF/1.%E6%94%BB%E4%B8%8B%E8%8D%AF(4%E7%A7%8D).md)
+- 2.[润下药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.4%20%E6%B3%BB%E4%B8%8B%E8%8D%AF/2.%E6%B6%A6%E4%B8%8B%E8%8D%AF(2%E7%A7%8D).md)
+- 3.[峻下逐水药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.4%20%E6%B3%BB%E4%B8%8B%E8%8D%AF/3.%E5%B3%BB%E4%B8%8B%E9%80%90%E6%B0%B4%E8%8D%AF(3%E7%A7%8D).md)
 
 
 ### 模板
